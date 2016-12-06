@@ -1,2 +1,4 @@
+.idea
+/docs
 /node_modules
-app/assets/vendor
+/app/assets/vendor
